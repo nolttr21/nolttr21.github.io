@@ -1,3 +1,7 @@
+*
+{
+  font-family: "Lucida Console";
+}
 html
 {
   margin:0px;
@@ -34,6 +38,11 @@ nav a
   border-style: solid;
   border-color: black;
   border-width: 1px;
+}
+
+h1, h2, h3, h4
+{
+  font-family: "Lucida Console";
 }
 
 hr
