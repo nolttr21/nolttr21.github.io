@@ -1,0 +1,13 @@
+<heading>
+<nav bar>
+
+<image of me>
+Tristan Nolt
+Hi My name is Tristan Nolt. I am a freshman at Thaddeus Stevens college of Technology. My area of study there is Computer Software Engineering.
+
+recent project (heading)
+Choose your own adventure game, web based
+<image of a game screen>
+In this project I utilized javascript event listeners to create a web based choose your own adventure game.
+<link to github project page>
+<link to all projects>
