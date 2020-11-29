@@ -1,0 +1,24 @@
+<heading>
+<nav bar>
+
+Most recent project(heading)
+Web based choose your own adventure game
+<image of a game screen>
+In this project I utilized javascript event listeners to create a web based choose your own adventure game.
+<link to github project page>
+
+Other projects(heading)
+tik tac toe
+<image of game>
+A web based tik tac toe game that a partner and I built from scratch.
+<link to github project page>
+
+Java based super mario game
+<image of game>
+A small 2d mario fan game with 6 levels, three characters, and three boss fights.
+<link to Greenfoot page>
+
+Javascript based choose your own adventure game
+<image of game screen>
+A basic, terminal only choose your own adventure game that went on to become web based.
+<link to file in github>

@@ -1,0 +1,74 @@
+html
+{
+  margin:0px;
+  padding:0px;
+  border:0px;
+  background-color: #e8e8e8;
+}
+
+header
+{
+  width:100%;
+  margin:0px;
+  padding:0px;
+  border:0px;
+  color:#222831;
+  text-align: center;
+
+}
+
+nav
+{
+  display:flex;
+  background-color:#f05454;
+  justify-content:space-around;
+
+}
+nav a
+{
+  text-decoration: none;
+  font-size: 150%;
+  text-align: center;
+  width: 25%;
+  color:#222831;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+hr
+{
+  border-style: dashed;
+}
+
+.homeTextContent
+{
+
+
+}
+.myself
+{
+  padding:2%;
+
+}
+.homeProfile
+{
+  display: flex;
+  align-items: center;
+}
+
+.isProject
+{
+  margin: 0 auto;
+  max-width: 500px;
+
+  border-style: groove;
+  border-color: #30475e;
+  text-align: center;
+}
+
+.isProject p
+{
+  text-align: left;
+  padding-left: 10px;
+}
